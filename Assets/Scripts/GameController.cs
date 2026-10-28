@@ -30,9 +30,9 @@ public class GameController : MonoBehaviour
     //Information for UI display
     [Header("User Interface")]
     public Text WinDisplay;
-    public string WinText = "Win!";
+    public string WinText = "You Win! NYA!";
     public Text LoseDisplay;
-    public string LoseText = "Lose!";
+    public string LoseText = "Maybe next time :(\n*sad nya*";
     public Text LivesDisplay;
     public string LivesText = "Lives: ";
     public Text ScoreDisplay;
